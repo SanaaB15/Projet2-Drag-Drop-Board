@@ -3,28 +3,26 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Drag&Drop Board</title>
+    <title>Drag & Drop Board</title>
     <link rel="stylesheet" href="style.css" />
     <script src="script.js" defer></script>
   </head>
   <body>
-    <div class="container">
+    <div class="main-container">
       <h1>Simple Drag & Drop Board</h1>
-      <div class="board">
-        <!-- LIST 1 -->
-        <div class="list" id="list1">
+      <div class="task-board">
+        <div class="task-column" id="todo">
           <h2>To Do</h2>
-          <div class="card" draggable="true" id="card1">Wash dishes</div>
-          <div class="card" draggable="true" id="card2">Buy groceries</div>
+          <div class="task-card" draggable="true" id="task1">Wash dishes</div>
+          <div class="task-card" draggable="true" id="task2">Buy groceries</div>
         </div>
 
-        <!-- LIST 2 -->
-        <div class="list" id="list2">
+        <div class="task-column" id="in-progress">
           <h2>In Progress</h2>
-          <div class="card" draggable="true" id="card3">Learn to code</div>
+          <div class="task-card" draggable="true" id="task3">Learn to code</div>
         </div>
-        <!-- LIST 3 -->
-        <div class="list" id="list3">
+
+        <div class="task-column" id="done">
           <h2>Done</h2>
         </div>
       </div>

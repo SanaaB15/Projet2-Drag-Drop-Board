@@ -30,7 +30,7 @@ This project is a simple and interactive **drag-and-drop task board**, allowing 
 
 ## Demo Video
 
-📽️ https://github.com/user-attachments/assets/25e5cacc-16ca-43a5-b529-c2e1af2cd979
+https://github.com/user-attachments/assets/25e5cacc-16ca-43a5-b529-c2e1af2cd979
 
 
 
