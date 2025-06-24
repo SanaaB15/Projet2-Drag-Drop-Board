@@ -1,10 +1,10 @@
-# 📝 Drag & Drop Board
+# Drag & Drop Board
 
 This project is a simple and interactive **drag-and-drop task board**, allowing users to move cards between columns labeled *To Do*, *In Progress*, and *Done*. It provides a clean, responsive design and was built using HTML, CSS, and JavaScript.
 
 ---
 
-## ✨ Features
+## Features
 
 - Intuitive drag-and-drop functionality
 - Responsive design (desktop and mobile)
@@ -13,7 +13,7 @@ This project is a simple and interactive **drag-and-drop task board**, allowing 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3** – Responsive layout with media queries
@@ -22,13 +22,13 @@ This project is a simple and interactive **drag-and-drop task board**, allowing 
 
 ---
 
-## 🌐 Live Site
+## Live Site
 
 👉 https://fanciful-bubblegum-c62c94.netlify.app
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 📽️ https://github.com/user-attachments/assets/25e5cacc-16ca-43a5-b529-c2e1af2cd979
 
@@ -36,7 +36,7 @@ This project is a simple and interactive **drag-and-drop task board**, allowing 
 
 ---
 
-## 📚 Resources & Inspiration
+## Resources & Inspiration
 
 📌 This project was inspired by:
 
@@ -45,7 +45,7 @@ This project is a simple and interactive **drag-and-drop task board**, allowing 
 
 ---
 
-## 🖥️ Local Installation
+## Local Installation
 
 To run this project locally:
 
